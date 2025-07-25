@@ -8,6 +8,6 @@ Si bien el codigo solución fue desarrollado en lenguaje C Sharp,  usted puede u
 
 [Código fuente C# de la Solución](https://www.lawebdelprogramador.com/temas/C-sharp/13551-Un-desafio-C-que-lo-mantendra-despierto-hasta-resolverlo.html)
 
-[Video con explicativo en Youtube](https://youtu.be/c8d0oyushrY)
+[Video explicativo en Youtube](https://youtu.be/c8d0oyushrY)
 
 
